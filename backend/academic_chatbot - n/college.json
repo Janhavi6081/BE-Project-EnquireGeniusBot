@@ -1,0 +1,20 @@
+[
+    {
+        "conversation": [
+            ["Hi", "Hello, welcome to our college. How can I help you?"],
+            ["What courses do you offer?", "We offer various courses in Computer Science, Engineering, Arts, and more."],
+            ["How can I apply?", "You can apply online through our website or visit our admission office for more details."],
+            ["What are the facilities available?", "We have state-of-the-art labs, a library, sports facilities, and more."],
+            ["Thank you", "You're welcome! If you have any other questions, feel free to ask."]
+        ]
+    },
+    {
+        "conversation": [
+            ["Hello", "Hi there, how can I assist you today?"],
+            ["Tell me about the Computer Science course.", "Our Computer Science program covers areas like algorithms, programming, AI, and more."],
+            ["Is there any scholarship available?", "Yes, we offer scholarships based on academic performance and other criteria."],
+            ["Can I visit the campus?", "Of course! We encourage campus visits to get a feel for our facilities."],
+            ["Thank you", "You're welcome. If you need further information, feel free to ask."]
+        ]
+    }
+]

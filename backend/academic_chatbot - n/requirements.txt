@@ -1,0 +1,5 @@
+#Install Flask 
+#install python 3.10
+#firebase connectivity 
+#ultramsg api
+#ngrok download

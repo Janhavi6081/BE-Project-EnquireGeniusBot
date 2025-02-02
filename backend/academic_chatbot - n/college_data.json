@@ -1,0 +1,43 @@
+[
+    [
+        "Hi",
+        "Hello, how can I help you?"
+    ],
+    [
+        "What courses do you offer?",
+        "We offer various courses in Computer Science, Engineering, Arts, and more."
+    ],
+    ["What are the facilities available?", "We have state-of-the-art labs, a library, sports facilities, and more."],
+    ["Thank you", "You're welcome! If you have any other questions, feel free to ask."]
+    ,
+    [
+      "send me collage pic", "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/met.jpg?alt=media&token=b8d54c3f-8460-4d2b-a951-873aa651293a"
+    ],
+    [
+      "send me collage image", "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/met.jpg?alt=media&token=b8d54c3f-8460-4d2b-a951-873aa651293a"
+    ],
+    [
+      "collage image", "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/met.jpg?alt=media&token=b8d54c3f-8460-4d2b-a951-873aa651293a"
+    ],
+    [
+      "image", "https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/met.jpg?alt=media&token=b8d54c3f-8460-4d2b-a951-873aa651293a"
+    ],
+    [
+      "send audio","https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/Julun%20Yeti%20Reshimgathi%20Full%20Title%20Track%20Lyrics%20%E0%A4%9C%E0%A4%B3%E0%A4%A8%20%E0%A4%AF%E0%A4%A4%20%E0%A4%B0%E0%A4%B6%E0%A4%AE%E0%A4%97%E0%A4%A0%20%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%95%E0%A4%97%E0%A4%A4%20%E0%A4%B8%E0%A4%AA%E0%A4%B0%E0%A4%A3%20%E0%A4%B6%E0%A4%AC%E0%A4%A6%E0%A4%B0%E0%A4%9A%E0%A4%A8.mp3?alt=media&token=fe3fb100-ca6f-47aa-8191-27ff8edf4d8f"
+    ]
+    ,
+    [
+      "audio","https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/Julun%20Yeti%20Reshimgathi%20Full%20Title%20Track%20Lyrics%20%E0%A4%9C%E0%A4%B3%E0%A4%A8%20%E0%A4%AF%E0%A4%A4%20%E0%A4%B0%E0%A4%B6%E0%A4%AE%E0%A4%97%E0%A4%A0%20%E0%A4%B6%E0%A4%B0%E0%A4%B7%E0%A4%95%E0%A4%97%E0%A4%A4%20%E0%A4%B8%E0%A4%AA%E0%A4%B0%E0%A4%A3%20%E0%A4%B6%E0%A4%AC%E0%A4%A6%E0%A4%B0%E0%A4%9A%E0%A4%A8.mp3?alt=media&token=fe3fb100-ca6f-47aa-8191-27ff8edf4d8f"
+    ]
+    ,
+    [
+      "send document","https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/p_1.pdf?alt=media&token=a677bf9d-d0a6-41fa-8005-242ed6ba992a"
+    ],
+    [
+      "document","https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/p_1.pdf?alt=media&token=a677bf9d-d0a6-41fa-8005-242ed6ba992a"
+    ]
+    ,
+    [
+      "how to process the pdf","https://firebasestorage.googleapis.com/v0/b/projectag8-38b5a.appspot.com/o/p_1.pdf?alt=media&token=a677bf9d-d0a6-41fa-8005-242ed6ba992a"
+    ]
+]
